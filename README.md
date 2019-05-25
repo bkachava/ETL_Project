@@ -11,10 +11,10 @@
     
 	[Measuring Gentrification: Using Yelp Data to Quantify Neighborhood Change](http://www.nber.org/papers/w24952)
     
-	[Predicting gentrification through social networking data] (https://www.cam.ac.uk/research/news/predicting-gentrification-through-social-networking-data)
+	[Predicting gentrification through social networking data](https://www.cam.ac.uk/research/news/predicting-gentrification-through-social-networking-data)
 
  
-- We Extracted, Transformed and Loaded data sources and created requests to Google Places and Yelp. Then we stored the information in Mongo.
+- We `Extracted, Transformed and Loaded` data sources and created requests to Google Places and Yelp. Then we stored the information in Mongo.
 
 
 ## Results
