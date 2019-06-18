@@ -19,7 +19,8 @@
 
 ## Results
 
-- The notebook with the web scraping to Yelp.com can be found [here](/Notebook). 
+- The __Jupyter Notebook__ with the Web Scraping to Yelp.com using __Splinter, BeautifulSoup and Pymongo libraries__ can be found [here](/Notebook). 
+
 
 - The rest of the code was included in a [Colaboratory notebook](https://colab.research.google.com/drive/1ICm2k1gXNu64Oij10fdtf1_ejK5mRDR2#scrollTo=o2-WzowQQU1i)
 
